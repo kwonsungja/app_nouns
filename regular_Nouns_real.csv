@@ -1,101 +1,101 @@
-No,Singular,Plural,Level
-1,plane ,planes ,s
-2,book ,books,s
-3,house,houses,s
-4,computer,computers,s
-5,apple,apple,s
-6,dog ,dogs,s
-7,tree,trees,s
-8,table,tables,s
-9,car,cars,s
-10,pen,pens,s
-11,computer,computers,s
-12,phone,phones,s
-13,cat,cats,s
-14,window,windows,s
-15,door,doors,s
-16,bottle,bottles,s
-17,shoe,shoes,s
-18,shirt,shirts,s
-19,cup,cups,s
-20,lamp,lamps,s
-21,bed,beds,s
-22,clock,clocks,s
-23,bag,bags,s
-24,key,keys,s
-25,window,windows,s
-26,date,dates,s
-27,statement,statements,s
-28,leaner,leaners,s
-29,classroom,classrooms,s
-30,bus,buses,es
-31,dish,dishes,es
-32,box,boxes,es
-33,match,matches,es
-34,class,classes,es
-35,church ,churches ,es
-36,fox,foxes,es
-37,kiss ,kisses ,es
-38,dress,dresses,es
-39,class,classes,es
-40,watch,watches,es
-41,fox,foxes,es
-42,church,churches,es
-43,brush,brushes,es
-44,match,matches,es
-45,sandwich,sandwiches,es
-46,bench,benches,es
-47,peach,peaches,es
-48,branch,branches,es
-49,ash,ashes,es
-50,loss,losses,es
-51,moss,mosses,es
-52,boss,bosses,es
-53,glass,glasses,es
-54,tomato,tomato,es
-55,potato                                     ,potato                                     ,es
-56,veto,veto,es
-57,mosquito                               ,mosquito                               ,es
-58,hero,hero,es
-59,echo,echo,es
-60,tornado,tornado,es
-61,volcano,volcano,es
-62,echo,echo,es
-63,mango,mango,es
-64,volcano,volcano,es
-65,domino,domino,es
-66,tornado,tornado,es
-67,zero,zero,es
-68,piano,piano,es
-69,solo,solo,es
-70,alto,alto,es
-71,photo,photo,es
-72,rhino,rhino,es
-73,studio,studio,es
-74,radio,radio,es
-75,cello,cello,es
-76,cargo,cargo,es
-77,memo,memo,es
-78,baby                                       ,babies,ies
-79,lady                                        ,ladies,ies
-80,story                                       ,stories,ies
-81,berry                                      ,berries,ies
-82,city,cities,ies
-83,party ,parties ,ies
-84,puppy,puppies,ies
-85,family,families,ies
-86,puppy,puppies,ies
-87,country,countries,ies
-88,family,families,ies
-89,penny,pennies,ies
-90,cherry,cherries,ies
-91,army,armies,ies
-92,library,libraries,ies
-93,candy,candies,ies
-94,diary,diaries,ies
-95,activity,activities,ies
-96,factory,factories,ies
-97,mystery,mysteries,ies
-98,gallery,galleries,ies
-99,melody,melodies,ies
-100,colony,colonies,ies
+Singular,Plural,Level
+plane ,planes ,s
+book ,books,s
+house,houses,s
+computer,computers,s
+apple,apple,s
+dog ,dogs,s
+tree,trees,s
+table,tables,s
+car,cars,s
+pen,pens,s
+computer,computers,s
+phone,phones,s
+cat,cats,s
+window,windows,s
+door,doors,s
+bottle,bottles,s
+shoe,shoes,s
+shirt,shirts,s
+cup,cups,s
+lamp,lamps,s
+bed,beds,s
+clock,clocks,s
+bag,bags,s
+key,keys,s
+window,windows,s
+date,dates,s
+statement,statements,s
+leaner,leaners,s
+classroom,classrooms,s
+bus,buses,es
+dish,dishes,es
+box,boxes,es
+match,matches,es
+class,classes,es
+church ,churches ,es
+fox,foxes,es
+kiss ,kisses ,es
+dress,dresses,es
+class,classes,es
+watch,watches,es
+fox,foxes,es
+church,churches,es
+brush,brushes,es
+match,matches,es
+sandwich,sandwiches,es
+bench,benches,es
+peach,peaches,es
+branch,branches,es
+ash,ashes,es
+loss,losses,es
+moss,mosses,es
+boss,bosses,es
+glass,glasses,es
+tomato,tomato,es
+potato                                     ,potato                                     ,es
+veto,veto,es
+mosquito                               ,mosquito                               ,es
+hero,hero,es
+echo,echo,es
+tornado,tornado,es
+volcano,volcano,es
+echo,echo,es
+mango,mango,es
+volcano,volcano,es
+domino,domino,es
+tornado,tornado,es
+zero,zero,es
+piano,piano,es
+solo,solo,es
+alto,alto,es
+photo,photo,es
+rhino,rhino,es
+studio,studio,es
+radio,radio,es
+cello,cello,es
+cargo,cargo,es
+memo,memo,es
+baby                                       ,babies,ies
+lady                                        ,ladies,ies
+story                                       ,stories,ies
+berry                                      ,berries,ies
+city,cities,ies
+party ,parties ,ies
+puppy,puppies,ies
+family,families,ies
+puppy,puppies,ies
+country,countries,ies
+family,families,ies
+penny,pennies,ies
+cherry,cherries,ies
+army,armies,ies
+library,libraries,ies
+candy,candies,ies
+diary,diaries,ies
+activity,activities,ies
+factory,factories,ies
+mystery,mysteries,ies
+gallery,galleries,ies
+melody,melodies,ies
+colony,colonies,ies
