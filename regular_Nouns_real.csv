@@ -1,10 +1,10 @@
 ﻿singular,plural,level
-plane ,planes,s
-book ,books,s
+plane,planes,s
+book,books,s
 house,houses,s
 computer,computers,s
 apple,apple,s
-dog ,dogs,s
+dog,dogs,s
 tree,trees,s
 table,tables,s
 car,cars,s
@@ -33,9 +33,9 @@ dish,dishes,es
 box,boxes,es
 match,matches,es
 class,classes,es
-church ,churches,es
+church,churches,es
 fox,foxes,es
-kiss ,kisses,es
+kiss,kisses,es
 dress,dresses,es
 class,classes,es
 watch,watches,es
@@ -52,36 +52,33 @@ loss,losses,es
 moss,mosses,es
 boss,bosses,es
 glass,glasses,es
-tomato,tomato,es
-potato                                     ,potato,es
-veto,veto,es
-mosquito                               ,mosquito,es
-hero,hero,es
-echo,echo,es
-tornado,tornado,es
-volcano,volcano,es
-echo,echo,es
-mango,mango,es
-volcano,volcano,es
-domino,domino,es
-tornado,tornado,es
-zero,zero,es
-piano,piano,es
-solo,solo,es
-alto,alto,es
-photo,photo,es
-rhino,rhino,es
-studio,studio,es
-radio,radio,es
-cello,cello,es
-cargo,cargo,es
-memo,memo,es
-baby                                       ,babies,ies
-lady                                        ,ladies,ies
-story                                       ,stories,ies
-berry                                      ,berries,ies
+tomato,tomatoes,es
+potato,potatoes,es
+veto,vetoes,es
+mosquito,mosquitoes,es
+hero,heroes,es
+volcano,volcanoes,es
+echo,echoes,es
+mango,mangoes,es
+domino,dominoes,es
+tornado,tornadoes,es
+zero,zeroes,es
+piano,pianoes,es
+solo,soloes,es
+alto,altoes,es
+photo,photoes,es
+rhino,rhinoes,es
+studio,studioes,es
+radio,radioes,es
+cello,celloes,es
+cargo,cargoes,es
+memo,memoes,es
+baby,babies,ies
+lady,ladies,ies
+story,stories,ies
+berry,berries,ies
 city,cities,ies
-party ,parties,ies
+party,parties,ies
 puppy,puppies,ies
 family,families,ies
 puppy,puppies,ies
