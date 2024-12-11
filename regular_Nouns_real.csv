@@ -1,5 +1,5 @@
-singular,plural,level
-plane ,planes ,s
+﻿singular,plural,level
+plane ,planes,s
 book ,books,s
 house,houses,s
 computer,computers,s
@@ -33,9 +33,9 @@ dish,dishes,es
 box,boxes,es
 match,matches,es
 class,classes,es
-church ,churches ,es
+church ,churches,es
 fox,foxes,es
-kiss ,kisses ,es
+kiss ,kisses,es
 dress,dresses,es
 class,classes,es
 watch,watches,es
@@ -53,9 +53,9 @@ moss,mosses,es
 boss,bosses,es
 glass,glasses,es
 tomato,tomato,es
-potato                                     ,potato                                     ,es
+potato                                     ,potato,es
 veto,veto,es
-mosquito                               ,mosquito                               ,es
+mosquito                               ,mosquito,es
 hero,hero,es
 echo,echo,es
 tornado,tornado,es
@@ -81,7 +81,7 @@ lady                                        ,ladies,ies
 story                                       ,stories,ies
 berry                                      ,berries,ies
 city,cities,ies
-party ,parties ,ies
+party ,parties,ies
 puppy,puppies,ies
 family,families,ies
 puppy,puppies,ies
